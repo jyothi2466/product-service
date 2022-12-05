@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://productdatabase.cuf054qapu8m.ap-south-1.rds.amazonaws.com:5432/product_db?searchpath=product_schema
+    username: postgres
+    password: Jyothi-2466
